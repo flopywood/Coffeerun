@@ -1,5 +1,13 @@
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    height: 100%;
+}
+
 body {
   background: url('https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/JYLJEI3JUN.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h2 {
